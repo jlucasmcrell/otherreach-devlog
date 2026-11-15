@@ -59,3 +59,5 @@ The character creator had four playable peoples. Four more existed in the lore b
 - **Kaldrun east** now has its creatures, from black bears and elk to the Reach raiders and their captain.
 
 Next up: getting the one-world walk to a playable frame rate, the Salt Steps quarters, and a public playtest.
+
+Follow OTHERREACH at [otherreach.com](https://otherreach.com), where the devlog and the [public playtest](https://otherreach.com/playtest/) live.
